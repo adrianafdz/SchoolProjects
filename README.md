@@ -1,2 +1,2 @@
 # SchoolProjects
-Some projects done for school using CPP
+Some projects done for school projects and homeworks using CPP
