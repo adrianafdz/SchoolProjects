@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1552075075 source:c:\users\adria\documents\skul\poo\proyecto2\main.cpp
+	<iostream>
+	<fstream>
+	"Autor.h"
+	"Tema.h"
+	"Materia.h"
+	"EjemploVideo.h"
+
+1551933384 c:\users\adria\documents\skul\poo\proyecto2\include\ejemplovideo.h
+	"Fecha.h"
+
+1551833528 c:\users\adria\documents\skul\poo\proyecto2\include\fecha.h
+
+1551818302 c:\users\adria\documents\skul\poo\proyecto2\include\autor.h
+
+1551818262 c:\users\adria\documents\skul\poo\proyecto2\include\tema.h
+
+1551818197 c:\users\adria\documents\skul\poo\proyecto2\include\materia.h
+
+1551797974 source:c:\users\adria\documents\skul\poo\proyecto2\otromain.cpp
+	<iostream>
+
